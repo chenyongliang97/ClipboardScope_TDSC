@@ -1,4 +1,4 @@
-To use ClipboardScope for static analysis, run through command: java -jar ClipboardScope+.jar \[apk_path\] android.jar.
+To use ClipboardScope for static analysis, download all files in one folder, and run through command: java -jar ClipboardScope+.jar \[apk_path\] android.jar.
 
 Results contain:
   1. taint_\[apk\]: taint analysis result for identifing execution sequence
